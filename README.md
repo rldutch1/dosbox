@@ -30,3 +30,7 @@ The .zip file contains source as well as a Windows binary.
 
 ftp://ftp.zytor.com/pub/games/dosbox/ip ... 0.2.tar.gz 
 ftp://ftp.zytor.com/pub/games/dosbox/ipxrelay-0.2.zip
+
+
+Change mouse focus from DosBox window to other windows: ctrl + F10.
+
